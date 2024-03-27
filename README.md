@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @NDOTIWAMBUA. I have a passsion for statistics, data analysis and visualization.
 - 👀 Set to graduate this year with a degree in statistics.
 - 🌱 I’m currently learning python and tableau, with proficiency in SQL and R.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Seeking internship Opportunities
 - ###Projects
 - ** Data Cleaning**
+- [Data cleaning repository](https://github.com/NDOTIWAMBUA/Data-cleaning-project)
 - **Data Exploration
+- [Data Exploration repository](https://github.com/NDOTIWAMBUA/SQL-Data-Exploration)
 - email: ndotiwambua@students.jkuat.ac.ke
   
 
