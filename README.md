@@ -16,11 +16,11 @@ Welcome to my Github Profile!I am a passionate **Data Analyst** and **Researcher
 - **Project Management** : Effective Communicator, Team Player, Diligent
 
 ## 📂Featured Projects
- **Data Cleaning**  [Data cleaning repository](https://github.com/NDOTIWAMBUA/Data-cleaning-project)
+ -**Data Cleaning**  [Data cleaning repository](https://github.com/NDOTIWAMBUA/Data-cleaning-project)
       -Tools used: MYSQL Workbench
- **Data Exploration**  [Data Exploration repository](https://github.com/NDOTIWAMBUA/SQL-Data-Exploration)
+ -**Data Exploration**  [Data Exploration repository](https://github.com/NDOTIWAMBUA/SQL-Data-Exploration)
       -Tools used: MYSQL Workbench
- **Data Visualization** [https://public.tableau.com/app/profile/juliet.ndoti/viz/AirBnBfullproject_17326911871470/Dashboard1?publish=yes]
+ -**Data Visualization** [https://public.tableau.com/app/profile/juliet.ndoti/viz/AirBnBfullproject_17326911871470/Dashboard1?publish=yes]
       -Interactive dashboard Visualizing
       -Tools used: Tableau
 
@@ -30,7 +30,7 @@ Welcome to my Github Profile!I am a passionate **Data Analyst** and **Researcher
 - **Personal Website** [Coming soon!!]
 
 ---
-✨* I'm always open to collaboration and exploringnew opportunitiesin data, research and storytelling.*
+✨* I'm always open to collaboration and exploring new opportunities in data, research and storytelling.*
 
   
 
