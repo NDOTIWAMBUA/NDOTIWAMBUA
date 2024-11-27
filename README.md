@@ -21,8 +21,7 @@ Welcome to my Github Profile!I am a passionate **Statistician**, **Data Analyst*
  - **Data Exploration**  [Data Exploration repository](https://github.com/NDOTIWAMBUA/SQL-Data-Exploration)
       -Tools used: MYSQL Workbench
  - **Data Visualization** [https://public.tableau.com/app/profile/juliet.ndoti/viz/AirBnBfullproject_17326911871470/Dashboard1?publish=yes]
-      -Interactive dashboard Visualizing
-      -Tools used: Tableau
+      ,Interactive dashboard Visualizing the airbnb dataset using tableau
 
  ## 📫Let's connect
 - 📩**email**: ndotijuliet@gmail.com
