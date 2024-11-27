@@ -1,13 +1,37 @@
-- 👋 Hi, I’m @NDOTIWAMBUA. I have a passsion for statistics, data analysis and visualization.
-- 👀 Set to graduate this year with a degree in statistics.
-- 🌱 I’m currently learning python and tableau, with proficiency in SQL and R.
-- 💞️ Seeking internship Opportunities
-- ###Projects
-- ** Data Cleaning**
-- [Data cleaning repository](https://github.com/NDOTIWAMBUA/Data-cleaning-project)
-- **Data Exploration
-- [Data Exploration repository](https://github.com/NDOTIWAMBUA/SQL-Data-Exploration)
-- email: ndotiwambua@students.jkuat.ac.ke
+# 👋 Hi there, I’m NDOTI WAMBUA.
+
+Welcome to my Github Profile!I am a passionate **Data Analyst** and **Researcher** with a strong background in **Statistics**, **Data Visualization**, **Digital Storytelling** and a growing interest in **Archives**.
+
+## 🔍 About Me
+
+- 🎓 **Education** : Bachelor's Degree in Statistics from JKUAT
+- 🌱 **Current Role** : Digitisation intern at Book Bunk
+- 💼**Past Experience** : Research Assistant at Kenya National Bureau of Statistics (KNBS) , co-organized an exhibition at McMillan Memorial Library on History of Protest in Kenya
+- 🎙️ **Projects** : Producing an episode on Women In Protest for the third season of the podcast 'A Palace for the People'
+
+## 💡Skills 
+- 📊 **Data Analysis** :Excel, SQL, Tableau, R and currently learning Python.
+- 📉 **Data Visualization** : Tableau, currently learning Power BI
+- 🔍 **Research** : Archival Research, History of Protests in Kenya, Metadata creation, Qualitative and Quantitative research
+- **Project Management** : Effective Communicator, Team Player, Diligent
+
+## 📂Featured Projects
+ **Data Cleaning**  [Data cleaning repository](https://github.com/NDOTIWAMBUA/Data-cleaning-project)
+      -Tools used: MYSQL Workbench
+ **Data Exploration**  [Data Exploration repository](https://github.com/NDOTIWAMBUA/SQL-Data-Exploration)
+      -Tools used: MYSQL Workbench
+ **Data Visualization** [https://public.tableau.com/app/profile/juliet.ndoti/viz/AirBnBfullproject_17326911871470/Dashboard1?publish=yes]
+      -Interactive dashboard Visualizing
+      -Tools used: Tableau
+
+ ## 📫Let's connect
+- 📩**email**: ndotijuliet@gmail.com
+- 🔗**linkedin**: :https://www.linkedin.com/in/juliet-ndoti
+- **Personal Website** [Coming soon!!]
+
+---
+✨* I'm always open to collaboration and exploringnew opportunitiesin data, research and storytelling.*
+
   
 
 <!---
