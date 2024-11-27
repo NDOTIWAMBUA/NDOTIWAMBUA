@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m NDOTI WAMBUA.
 
-Welcome to my Github Profile!I am a passionate **Data Analyst** and **Researcher** with a strong background in **Statistics**, **Data Visualization**, **Digital Storytelling** and a growing interest in **Archives**.
+Welcome to my Github Profile!I am a passionate **Statistician**, **Data Analyst** and **Researcher** with a strong background in **Statistics**, **Data Visualization**, **Digital Storytelling** and a growing interest in **Archives**.
 
 ## 🔍 About Me
 
